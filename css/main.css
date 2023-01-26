@@ -75,3 +75,16 @@ li:first-child {
 li:last-child {
     border-radius: 0 0 30px 30px;
 }
+
+footer {
+    background-color: #823922;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 10px;
+    margin:  20px auto 40px auto;
+    max-width: 400px;
+    max-height: 50px;
+    border-top: 30px solid #E8A062;
+    border-bottom: 30px solid #E8A062;
+    border-radius: 30px;
+}
