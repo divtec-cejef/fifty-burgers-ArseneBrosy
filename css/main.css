@@ -42,3 +42,15 @@ header {
 header img {
     max-height: 160px;
 }
+
+main {
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+.intro {
+    font-size: 1.3rem;
+    font-style: italic;
+    text-transform: uppercase;
+}
